@@ -8,7 +8,7 @@ pip install -r requirements.txt
 
 ## 写入 Cookies
 
-按照视频里的要求新建 cookies.json 文件，并粘贴 Cookies 信息。
+新建 cookies.json 文件，并粘贴 Cookies 信息。
 
 ## 运行
 
